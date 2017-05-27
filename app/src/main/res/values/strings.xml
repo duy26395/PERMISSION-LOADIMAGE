@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Permission_loadimage</string>
+    <string name="select_image">Select image</string>
+    <string name="show_contact">Show contact</string>
+    <string name="show_image">Show image</string>
+    <string name="yes_option">Yes</string>
+    <string name="no_option">No</string>
+    <string name="denied">Permission Deny</string>
+</resources>
